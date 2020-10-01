@@ -1,0 +1,5 @@
+(executable
+ (name run)
+ (package toto)
+ (public_name toto.run)
+ (libraries toto))

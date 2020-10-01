@@ -1,0 +1,9 @@
+(library
+ (name toto)
+ (modules a)
+ (public_name toto))
+
+(library
+ (name tata)
+ (modules a)
+ (public_name tata))
